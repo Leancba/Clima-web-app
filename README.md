@@ -1,6 +1,6 @@
 # Movie app with React Redux
 
-Link : https://leancba-movie-app.herokuapp.com/
+Link : https://leancba-clima-app.herokuapp.com/
 
 Con esta app podremos:
 
