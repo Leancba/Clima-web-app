@@ -4,10 +4,9 @@ Link : https://leancba-movie-app.herokuapp.com/
 
 Con esta app podremos:
 
-* Buscar películas y listarlas.
-* Poder ver todos los detalles de una película en particular.
-* Poder agregar las películas a tu lista de favoritos.
-* Poder sacar películas de tu lista de favoritos.
+* Buscar una ciudad y su ubicacion
+* Ver el clima actual de la ciudad en cuestion, y la temperatura maxima y minima de los proximos 7 dias
+
 
 
 
