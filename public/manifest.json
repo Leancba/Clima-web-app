@@ -1,0 +1,15 @@
+{
+  "short_name": "Movies App",
+  "name": "Movies App with React and Redux",
+  "icons": [
+    {
+      "src": "https://phantom-elmundo.unidadeditorial.es/6e806b2c35daa71b0f581e2083ef067d/f/jpg/assets/multimedia/imagenes/2020/04/06/15862088172462.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

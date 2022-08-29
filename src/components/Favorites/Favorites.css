@@ -1,0 +1,45 @@
+.container1{
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 80%;
+    
+
+
+}
+
+.favorite{
+    padding: 20px ;
+    margin-left: 65px;
+    display: flex;    
+    flex-wrap: wrap;
+    
+}
+
+.fondito2{
+    box-shadow: 0 5px 10px 0 rgba(228, 217, 217, 0.342);
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.583);
+    display: flex;
+    flex-direction: column;
+    width: min-content;
+    padding: 10px;
+    margin: 5px;
+    
+}
+
+.btn {
+    width: 100%;
+    color: #000000 !important;
+    font-size: 15px;
+    font-weight: bold;
+    background: rgba(228, 25, 25, 0);
+    border: 2px solid;
+    border-color: #0e0d0d74;
+    transition: all 1s ease;
+    
+  }
+  .btn:hover {
+    background: #000000;
+    color: rgb(255, 255, 255) !important;
+  }
